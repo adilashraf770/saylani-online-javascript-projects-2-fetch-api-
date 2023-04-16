@@ -1,0 +1,11 @@
+img{
+    max-width: 100px;
+}
+
+.text{
+       margin-top:25px ; 
+}
+.data{
+display: flex;
+flex-direction:row;
+}
